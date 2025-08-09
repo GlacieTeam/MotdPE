@@ -14,7 +14,7 @@ std::future<std::string> motdpe::queryMotdAsync("example.com", 19132, std::chron
 ```xmake
 add_repositories("groupmountain-repo https://github.com/GroupMountain/xmake-repo.git")
 
-add_requires("binarystream")
+add_requires("motdpe")
 ```
 
 ## Build
