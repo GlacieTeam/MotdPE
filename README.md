@@ -1,0 +1,2 @@
+# MotdPE
+Minecraft MotdPE Library
